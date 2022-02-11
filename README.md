@@ -1,4 +1,4 @@
-# ChessAI
+# ♟️ Creating an AI Algorithm to Play Chess!
 
 Hey there! Check out this article I wrote for a complete, **in-depth** explanation on EXACTLY how everything works: https://aditya-dewan124.medium.com/how-i-made-and-got-beaten-by-a-chess-playing-bot-d805cf471bb5
 
